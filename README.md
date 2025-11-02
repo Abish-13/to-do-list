@@ -6,7 +6,7 @@ This is a foundational front-end project that demonstrates core skills in web de
 
 This project serves as a practical example of key JavaScript concepts used to build modern, interactive web applications.
 
-**[➡️ View the Live Demo Here](https://Abish-13/to-do-list/)**
+**[➡️ View the Live Demo Here](https://abish-13.github.io/to-do-list/)**
 
 ## ✨ Core Features
 
