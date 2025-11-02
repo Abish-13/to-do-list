@@ -64,4 +64,4 @@ This project has a solid foundation. The next steps to take it further would be:
 
 ---
 
-*This project was built as part of my professional development portfolio. I am actively seeking internship opportunities in front-end development. Feel free to contact me at [Your Email] or [Your LinkedIn Profile URL].*
+
